@@ -1,0 +1,25 @@
+.container {
+  width: 80%;
+  margin: 0 auto 100px;
+}
+h1 {
+  text-align: center;
+}
+ul {
+  display: flex;
+  flex-wrap: wrap;
+
+  padding-left: 0;
+}
+li {
+  list-style: none;
+  width: 32.5%;
+  text-align: center;
+  border: 1px black solid;
+  padding: 10px 0;
+  margin: 10px 0.32%;
+}
+button {
+  display: block;
+  margin: 0 auto;
+}
